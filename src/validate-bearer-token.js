@@ -14,4 +14,4 @@ function validateBearerToken(req, res, next) {
     next()
 }
 
-module.exportds = validateBearerToken
+module.exports = validateBearerToken
