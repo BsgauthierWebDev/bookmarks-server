@@ -10,7 +10,8 @@ const bodyParser = express.json()
 bookmarksRouter
     .route('/bookmarks')
     .get((req, res) => {
-        res.json(store.booksmarks)
+        res
+        .json(store.bookmarks)
     })
     .post(bodyParser, (req, res) => {
         for (const field of ['title', 'url', 'rating']) {
@@ -85,7 +86,7 @@ bookmarksRouter
 
         store.bookmarks.splice(bookmarkIndex, 1)
 
-        logger.info(`Bookmark with d ${bookmark_id} deleted.`)
+        logger.info(`Bookmark with id ${bookmark_id} deleted.`)
         res
             .status(204)
             .end()
