@@ -369,3 +369,62 @@
 {"message":"Unauthorized request to path: /","level":"error"}
 {"message":"Unauthorized request to path: /bookmarks","level":"error"}
 {"message":"select * from \"bookmarks\" - relation \"bookmarks\" does not exist","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks/75789b55-9d0b-4de9-a9dc-ea4578f4b985","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks/75789b55-9d0b-4de9-a9dc-ea4578f4b985","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Cannot read property 'select' of undefined","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks/75789b55-9d0b-4de9-a9dc-ea4578f4b985","level":"error"}
+{"message":"Cannot read property 'from' of undefined","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks/doesnt-exist","level":"error"}
+{"message":"Cannot read property 'from' of undefined","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks/75789b55-9d0b-4de9-a9dc-ea4578f4b985","level":"error"}
+{"message":"Bookmark with id 75789b55-9d0b-4de9-a9dc-ea4578f4b985 deleted.","level":"info"}
+{"message":"Unauthorized request to path: /bookmarks/doesnt-exist","level":"error"}
+{"message":"Bookmark with id doesnt-exist not found.","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"title is required","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"url is required","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"rating is required","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Invalid rating 'invalid' supplied","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Invalid url 'htp://invalid-url' supplied","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Bookmark with id 6f01de99-b4ae-4608-8a71-7cb54124cdb1 created","level":"info"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks/591dcac6-d545-4a43-9edb-8cbb9dea399f","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks/591dcac6-d545-4a43-9edb-8cbb9dea399f","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Cannot read property 'select' of undefined","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks/591dcac6-d545-4a43-9edb-8cbb9dea399f","level":"error"}
+{"message":"Cannot read property 'from' of undefined","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks/doesnt-exist","level":"error"}
+{"message":"Cannot read property 'from' of undefined","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks/591dcac6-d545-4a43-9edb-8cbb9dea399f","level":"error"}
+{"message":"Cannot read property 'from' of undefined","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks/doesnt-exist","level":"error"}
+{"message":"Cannot read property 'from' of undefined","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"title is required","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"url is required","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"rating is required","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Invalid rating 'invalid' supplied","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Invalid url 'htp://invalid-url' supplied","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Cannot read property 'insert' of undefined","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"select * from \"bookmarks\" - relation \"bookmarks\" does not exist","level":"error"}
+{"message":"Unauthorized request to path: /","level":"error"}
+{"message":"Unauthorized request to path: /","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
